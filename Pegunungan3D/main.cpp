@@ -8,7 +8,7 @@
 #define MAP_SCALE	20.0f		
 #define PI		3.14159
 
-////// Includes
+//ytrkjhgkjh
 #include <windows.h>			
 #include <stdio.h>
 #include <stdlib.h>
